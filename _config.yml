@@ -1,0 +1,12 @@
+# Site settings
+title: M1s0n
+smalltalk: "A simple Blog"
+description: > 
+baseurl: "/" 
+paginate: 5
+url: "https://github.com/m1n0s-sec"
+github_username: m1s0n  
+portfolio_url: 
+
+# Build settings
+markdown: kramdown
