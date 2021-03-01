@@ -1,6 +1,6 @@
 # Site settings
-title: M1s0n
-smalltalk: "A simple Blog"
+title: M1s0n's Blog
+smalltalk: "知识面决定攻击面，知识链决定杀伤链"
 description: > 
 baseurl: "/" 
 paginate: 5
