@@ -5,7 +5,7 @@ description: >
 baseurl: "/" 
 paginate: 5
 url: "https://github.com/m1n0s-sec"
-github_username: m1s0n-sec  
+github_username: m1n0s-sec  
 portfolio_url: 
 
 # Build settings
